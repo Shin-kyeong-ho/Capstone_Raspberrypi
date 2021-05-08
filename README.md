@@ -1,6 +1,7 @@
 # 프로젝트명 : 너의 소리가 보여
 ## Raspberrypi
 ![캡처](https://user-images.githubusercontent.com/72690461/116762177-92b14d00-aa54-11eb-903f-065121734f87.JPG)
+![1](https://user-images.githubusercontent.com/72690461/117539411-78bfcd80-b045-11eb-9c2a-8658b52b24dc.jpg)
 
 
 ## 개발 세부목표
